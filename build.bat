@@ -1,0 +1,1 @@
+"C:\Program Files\Unity\Hub\Editor\2018.3.3f1\Editor\Unity.exe" -projectPath "D:\Repo\Research\UnityCITest\UnityCITest" -logFile "D:\Repo\Research\Build\Build.log" -quit -batchmode -nographics -executeMethod Builder.BuildPC -output "D:\Repo\Research\Build"
